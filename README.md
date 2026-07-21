@@ -2,6 +2,8 @@
 
 A collection of UI elements to build and structure a webpage or webapp.
 
+![HTML ultimate tutorial](/preview.jpg)
+
 ## Document declaration
 
 - !DOCTYPE html
