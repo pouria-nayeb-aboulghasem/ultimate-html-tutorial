@@ -70,6 +70,14 @@ A collection of UI elements to build and structure a webpage or webapp.
 ### Hyperlink element
 
 - a
+  - attributes
+    - type
+    - download
+    - hreflang
+    - media
+    - referrerpolicy
+    - rel
+    - ping
 
 ### East asia language
 
