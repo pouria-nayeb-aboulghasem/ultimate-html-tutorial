@@ -181,6 +181,9 @@ A collection of UI elements to build and structure a webpage or webapp.
 - video
 - audio
 - source
+  - attributes
+    - src
+    - type
 - embed
 - object
 - track
