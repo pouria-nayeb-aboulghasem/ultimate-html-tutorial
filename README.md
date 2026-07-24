@@ -98,9 +98,17 @@ A collection of UI elements to build and structure a webpage or webapp.
 
 - img
 - map
+  - attribute
+    - usemap
 - area
+  - attributes
+    - shape
+    - coords
 - picture
 - source
+  - attributes
+    - media
+    - srcset
 
 ## List elements
 
