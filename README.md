@@ -185,8 +185,16 @@ A collection of UI elements to build and structure a webpage or webapp.
     - src
     - type
 - embed
+  - attribute
+    - src
 - object
+  - attribute
+    - data
 - track
+  - attributes
+    - kind
+    - srclang
+    - label
 
 ## Graphic
 
