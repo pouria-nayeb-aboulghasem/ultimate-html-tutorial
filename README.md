@@ -199,6 +199,14 @@ A collection of UI elements to build and structure a webpage or webapp.
   - relative
   - absolute
 - iframe
+  - attributes
+    - allowfullscreen
+    - allowpaymentrequest
+    - loading
+    - name
+    - referrerpolicy
+    - sandbox
+    - srcdoc
 - base
 - link
   - stylesheet
