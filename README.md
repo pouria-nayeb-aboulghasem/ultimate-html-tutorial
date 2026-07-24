@@ -139,7 +139,7 @@ A collection of UI elements to build and structure a webpage or webapp.
 - fieldset
 - legend
 - input
-  - text
+  - text/email/tel/search/url
   - password
   - number
   - radio
@@ -148,6 +148,9 @@ A collection of UI elements to build and structure a webpage or webapp.
   - hidden
   - submit
   - button
+  - color
+  - date/datetime-local/month/week/time
+  - range
 - textarea
 - select
 - option
