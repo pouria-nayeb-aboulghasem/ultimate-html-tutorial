@@ -147,6 +147,9 @@ A collection of UI elements to build and structure a webpage or webapp.
 - summary
 - details
 - time
+- dialog
+  - attribute
+    - open
 
 ## Form
 
